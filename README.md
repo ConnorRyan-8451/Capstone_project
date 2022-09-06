@@ -12,7 +12,7 @@ Things to look into
 * Web Crawlers
 
 ## Resources
-- https://www.reddit.com/r/learnpython/comments/kswa60/google_dork_using_python/
+- https://www.reddit.com/r/learnpython/comments/kswa60/google_dork_using_python/    (exploit DB)
 - https://www.scrapingbee.com/blog/crawling-python/
 - https://www.geeksforgeeks.org/performing-google-search-using-python-code/
 - https://www.quickprogrammingtips.com/azure/how-to-upload-files-to-azure-storage-blobs-using-python.html
