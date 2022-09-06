@@ -16,6 +16,9 @@ Things to look into
 - https://www.scrapingbee.com/blog/crawling-python/
 - https://www.geeksforgeeks.org/performing-google-search-using-python-code/
 - https://www.quickprogrammingtips.com/azure/how-to-upload-files-to-azure-storage-blobs-using-python.html
+- https://apitracker.io/a/chegg
+- https://apitracker.io/a/quizlet
+- https://apitracker.io/a/coursehero
 
 # Future things to maybe add
 Build the application interface with C# Visual Studio and have that run Python within the C#
